@@ -2,19 +2,17 @@
 
 A modern full-stack e-commerce platform built with React.js and Node.js.
 
-![Frontend Preview](/path/to/your/image.png)
-
 ## 📸 Screenshots
 ![Home Page](/Screenshots/home.png)
 *Home Page View*
 
-![Shopping Cart](/screenshots/cart.png)
+![Shopping Cart](/Screenshots/cart.png)
 *Shopping Cart View*
 
-![checkout Details](/screenshots/checkout.png)
+![checkout Details](/Screenshots/checkout.png)
 *checkout Details View*
 
-![receipt  Details](/screenshots/receipt.png)
+![receipt  Details](/Screenshots/receipt.png)
 *receipt  Details View*
 
 
